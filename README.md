@@ -4,5 +4,5 @@ spotify_lyrics_fetch is a python script that takes your Spotify username as inpu
 
 Terminal usage:
 
-bash pip_install_dependencies.sh
+bash pip_install_dependencies.sh  
 python spotify_lyrics_fetch.py USERNAME
